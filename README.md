@@ -11,3 +11,7 @@
 ## 机器学习
 
 - [【Torch】Vanilla GAN](./ml/gan-vanilla/gan-vanilla.ipynb)
+
+## 小项目
+
+- [【C++】联系人管理程序](./small_projects/contacts/contacts.cpp)
